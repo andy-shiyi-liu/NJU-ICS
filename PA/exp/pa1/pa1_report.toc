@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}PA1-1}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}思考题}{2}{subsection.1.1}%
+\contentsline {paragraph}{C语言中的struct和union关键字都是什么含义，寄存器结构体的参考实现为什么把部分struct改成了union？}{2}{paragraph*.2}%
+\contentsline {section}{\numberline {2}PA1-2}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}add}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}adc}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}sub}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}sbb}{7}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}mul}{9}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}imul}{9}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}div mod}{10}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}idiv imod}{11}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}and or xor}{12}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}shl sal}{12}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}shr}{13}{subsection.2.11}%
+\contentsline {subsection}{\numberline {2.12}sar}{14}{subsection.2.12}%
+\contentsline {section}{\numberline {3}PA1-3}{15}{section.3}%
+\contentsline {subsection}{\numberline {3.1}加减法}{15}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}乘除法}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}规范化 internal\_normalize}{15}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}思考题}{19}{subsection.3.4}%
+\contentsline {paragraph}{1）对应输入是规格化或非规格化数，而输出产生了阶码上溢结果为正（负）无穷的情况}{19}{paragraph*.3}%
+\contentsline {paragraph}{2）对应输入是规格化或非规格化数，而输出产生了阶码下溢结果为正（负）零的情况。}{19}{paragraph*.4}%
+\contentsline {section}{\numberline {4}心得体会}{21}{section.4}%
