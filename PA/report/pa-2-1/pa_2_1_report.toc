@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}实现过程}{1}{section.1}%
+\contentsline {section}{\numberline {2}对于一些指令实现讨论}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}LEA的实现}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}i386手册勘误}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}eip 在指令描述中的取值}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Jcc 指令细节描述}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}MODr/m 位的解读}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}思考题}{3}{section.4}%
+\contentsline {section}{\numberline {5}心得体会}{4}{section.5}%
