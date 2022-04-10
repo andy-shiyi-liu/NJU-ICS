@@ -11,6 +11,7 @@ done
 
 echo "pushing to git@comfluter.life"
 cd PA/ICS_PA
+git pull origin
 git add .
 git commit -m "fetched new code from CS server"
 git push origin master
