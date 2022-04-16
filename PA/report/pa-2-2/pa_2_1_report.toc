@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}实现过程}{1}{section.1}%
+\contentsline {section}{\numberline {2}遇到的bug以及解决}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}没有修改Makefile导致的指令错误}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}本地运行结果与服务器运行结果不一致}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}思考题}{2}{section.3}%
+\contentsline {paragraph}{为什么在装载时要将内存中剩余的 memsz-filesz 字节的内容清零？}{2}{paragraph*.2}%
